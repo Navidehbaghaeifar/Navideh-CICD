@@ -1,0 +1,4 @@
+how to make object public:
+1-edit block public access(Object setting)
+2-edit object ownership
+3-make public using ACL
